@@ -1,7 +1,7 @@
 #  NotesApp
 
 NotesApp is a **React Native mobile application** built using **Expo** for creating and managing notes.  
-It provides a simple and intuitive interface with features like **dark mode, audio notes, image support, search, favorites, and archiving**.  
+It provides a simple and intuitive interface with features like **audio notes, image support, search, favorites, and archiving**.  
 
 ---
 
